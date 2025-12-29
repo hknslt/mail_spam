@@ -55,6 +55,8 @@ Model, test veri seti üzerinde aşağıdaki performansı göstermiştir:
 
 *Model, test setindeki spam mesajların tamamını (%100 Recall) başarıyla yakalamıştır.*
 
+<img width="602" height="574" alt="Ekran görüntüsü 2025-12-28 140630" src="https://github.com/user-attachments/assets/2cdf7c9a-0e8a-417c-a1a7-f512de18d179" />
+
 ## 🖥️ Kullanım Örneği (Canlı Test)
 
 Program çalıştırıldığında terminal ekranında bir giriş alanı açılır:
